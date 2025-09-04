@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /about.html
+permalink: /contacts.html
 ---
 
-{% include_relative src/about.html %}
+{% include_relative src/contacts.html %}
