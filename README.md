@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://firefly4ik.github.io/FrontBack/)
+- [Публичная страница на GitHub Pages](https://firefly4ik.github.io/frontBack_1sem_1pr/)
